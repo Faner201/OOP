@@ -1,0 +1,15 @@
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.csproj.AssemblyReference.cache
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.AssemblyInfoInputs.cache
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.AssemblyInfo.cs
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.csproj.CoreCompileInputs.cache
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/bin/Debug/net6.0/Single Responsibility Principle
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/bin/Debug/net6.0/Single Responsibility Principle.deps.json
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/bin/Debug/net6.0/Single Responsibility Principle.runtimeconfig.json
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/bin/Debug/net6.0/Single Responsibility Principle.dll
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/bin/Debug/net6.0/Single Responsibility Principle.pdb
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.dll
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/refint/Single Responsibility Principle.dll
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.pdb
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/Single Responsibility Principle.genruntimeconfig.cache
+/Users/fanfurick/Documents/OOP/SOLID/Single Responsibility Principle/obj/Debug/net6.0/ref/Single Responsibility Principle.dll
