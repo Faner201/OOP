@@ -1,0 +1,13 @@
+public class MicroAccount : Account
+{
+    public override void SetCapital(int money)
+    {
+        if(money < 0)
+            throw new System.Exception("Нельзя положить на счет меньше 0");
+
+        if(money > 100)
+            throw new System.Exception("Нельзя положить на счет больше 100");
+
+        this.Capital = money;
+    }
+}
